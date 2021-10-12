@@ -1,6 +1,6 @@
 # Python examples for SGBotic Ultimate SR04 RGB Ultrasonic Sensor
 
-Python example for [Ultimate SR04 RGB Ultrasonic Sensor](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=3248), an I2C ultrasonic sensor with illuminate transceiver.
+Python examples for [Ultimate SR04 RGB Ultrasonic Sensor](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=3248), an I2C ultrasonic sensor with illuminate transceiver.
 
 These examples to be run on Python3.
 
